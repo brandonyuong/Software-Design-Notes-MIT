@@ -1,4 +1,4 @@
-Goals of this course:
+Goals of software construction (Java):
 1)  Safe from bugs:  Correct today and correct in the unknown future
 2)  Easy to understand:  Communicating clearly with future programmers, including future you
 3)  Ready for change:  Designed to accommodate change without rewriting
